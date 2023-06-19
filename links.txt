@@ -1,0 +1,7 @@
+
+=> Portal "dadosabertos.pa.br" 
+
+=> Base de dados para pesquisa -> https://dadosabertos.poa.br/dataset/acidentes-de-transito-acidentes 
+
+
+
